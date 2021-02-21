@@ -1,3 +1,9 @@
+this cheat sheet is sourced directly from: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+i included this document here for ease of access and to have an offline copy
+
+i do not claim to have written this document, though i may have editted the contents a bit for my liking.
+
 # Cheat Sheet
 This is intended as a quick reference and showcase. For more complete info, see [John Gruber's original spec](http://daringfireball.net/projects/markdown/) and the [Github-flavored Markdown info page](http://github.github.com/github-flavored-markdown/).
 
