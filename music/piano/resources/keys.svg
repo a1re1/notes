@@ -1,30 +1,95 @@
 <svg width="719" height="281" xmlns="http://www.w3.org/2000/svg">
- <g>
-  <title>background</title>
-  <rect x="-1" y="-1" width="721" height="283" id="canvas_background" fill="none"/>
- </g>
 
- <g>
-  <title>Layer 1</title>
-  <rect fill="#fff" stroke="#000" opacity="undefined" x="118.05249" y="17.14759" width="90" height="248" id="svg_4"/>
-  <rect fill="#fff" stroke="#000" opacity="undefined" x="216.05249" y="16.14759" width="90" height="248" id="svg_7"/>
-  <rect fill="#fff" stroke="#000" opacity="undefined" x="315.05249" y="17.14759" width="90" height="248" id="svg_8"/>
-  <rect fill="#fff" stroke="#000" opacity="undefined" x="414.05249" y="17.14759" width="90" height="248" id="svg_9"/>
-  <rect fill="#fff" stroke="#000" opacity="undefined" x="18.05249" y="17.14759" width="90" height="248" id="svg_10"/>
-  <rect fill="#fff" stroke="#000" opacity="undefined" x="514.05249" y="17.14759" width="90" height="248" id="svg_11"/>
-  <rect fill="#fff" stroke="#000" opacity="undefined" x="612.12314" y="17.14759" width="90" height="248" id="svg_12"/>
-  <rect fill="#000000" stroke="#0f0f00" stroke-width="null" stroke-dasharray="null" opacity="undefined" x="97.67389" y="10.60477" width="29.82437" height="182.45496" id="svg_13"/>
-  <rect fill="#000000" stroke="#0f0f00" stroke-width="null" stroke-dasharray="null" opacity="undefined" x="194.16449" y="10.60477" width="29.82437" height="182.45496" id="svg_14"/>
-  <rect fill="#000000" stroke="#0f0f00" stroke-width="null" stroke-dasharray="null" opacity="undefined" x="295.91821" y="10.60477" width="29.82437" height="182.45496" id="svg_15"/>
-  <rect fill="#000000" stroke="#0f0f00" stroke-width="null" stroke-dasharray="null" opacity="undefined" x="495.91693" y="10.60477" width="29.82437" height="182.45496" id="svg_16"/>
-  <rect fill="#000000" stroke="#0f0f00" stroke-width="null" stroke-dasharray="null" opacity="undefined" x="592.40753" y="10.60477" width="29.82437" height="182.45496" id="svg_17"/>
-  <text fill="#000000" stroke="#0f0f00" stroke-width="2" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="251.36701" y="250.36126" id="svg_18" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">A</text>
-  <text fill="#000000" stroke="#0f0f00" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="352.29699" y="250.66532" id="svg_19" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve" stroke-width="0">B</text>
-  <text fill="#000000" stroke="#0f0f00" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="443.84628" y="250.66532" id="svg_21" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">C</text>
-  <text fill="#fff" stroke="#0f0f00" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="546.66317" y="230.94701" id="svg_23" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">D</text>
-  <text fill="#000000" stroke="#0f0f00" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="548.07162" y="250.66532" id="svg_24" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">D</text>
-  <text fill="#000000" stroke="#0f0f00" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="649.48007" y="250.66532" id="svg_25" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">E</text>
-  <text fill="#000000" stroke="#0f0f00" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="53.70547" y="250.66532" id="svg_26" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">F</text>
-  <text fill="#000000" stroke="#0f0f00" stroke-width="0" stroke-dasharray="null" stroke-opacity="null" fill-opacity="null" opacity="undefined" x="153.70547" y="251" id="svg_27" font-size="24" font-family="sans-serif" text-anchor="start" xml:space="preserve">G</text>
- </g>
+  <g>
+    <title>background</title>
+    <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1" />
+  </g>
+  <g>
+    <title>Layer 1</title>
+    <rect id="svg_4" height="248" width="90" y="17.14759" x="118.05249" opacity="undefined" stroke="#000" fill="#fff" />
+    <rect id="svg_7" height="248" width="90" y="16.14759" x="216.05249" opacity="undefined" stroke="#000" fill="#fff" />
+    <rect id="svg_8" height="248" width="90" y="17.14759" x="315.05249" opacity="undefined" stroke="#000" fill="#fff" />
+    <rect id="svg_9" height="248" width="90" y="17.14759" x="414.05249" opacity="undefined" stroke="#000" fill="#fff" />
+    <rect id="svg_10" height="248" width="90" y="17.14759" x="18.05249" opacity="undefined" stroke="#000" fill="#fff" />
+    <rect id="svg_11" height="248" width="90" y="17.14759" x="514.05249" opacity="undefined" stroke="#000"
+      fill="#fff" />
+    <rect id="svg_12" height="248" width="90" y="17.14759" x="612.12314" opacity="undefined" stroke="#000"
+      fill="#fff" />
+    <rect id="svg_13" height="182.45496" width="29.82437" y="10.60477" x="97.67389" opacity="undefined"
+      stroke-dasharray="null" stroke-width="null" stroke="#0f0f00" fill="#000000" />
+    <rect id="svg_14" height="182.45496" width="29.82437" y="10.60477" x="194.16449" opacity="undefined"
+      stroke-dasharray="null" stroke-width="null" stroke="#0f0f00" fill="#000000" />
+    <rect id="svg_15" height="182.45496" width="29.82437" y="10.60477" x="295.91821" opacity="undefined"
+      stroke-dasharray="null" stroke-width="null" stroke="#0f0f00" fill="#000000" />
+    <rect id="svg_16" height="182.45496" width="29.82437" y="10.60477" x="495.91693" opacity="undefined"
+      stroke-dasharray="null" stroke-width="null" stroke="#0f0f00" fill="#000000" />
+    <rect id="svg_17" height="182.45496" width="29.82437" y="10.60477" x="592.40753" opacity="undefined"
+      stroke-dasharray="null" stroke-width="null" stroke="#0f0f00" fill="#000000" />
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_18" y="250.36126"
+      x="251.36701" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="2" stroke="#0f0f00" fill="#000000">A</text>
+    <text stroke-width="0" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_19"
+      y="250.66532" x="352.29699" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke="#0f0f00" fill="#000000">B</text>
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_21" y="250.66532"
+      x="443.84628" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#0f0f00" fill="#000000">C</text>
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_23" y="230.94701"
+      x="546.66317" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#0f0f00" fill="#fff">D</text>
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_24" y="250.66532"
+      x="548.07162" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#0f0f00" fill="#000000">D</text>
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_25" y="249.25687"
+      x="649.48007" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#0f0f00" fill="#000000">E</text>
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_26" y="250.66532"
+      x="53.70547" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#0f0f00" fill="#000000">F</text>
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_27" y="251"
+      x="153.70547" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#0f0f00" fill="#000000">G</text>
+    <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_29"
+      y="114.84171" x="194.36683" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0"
+      fill="#ffffff">A♭</text>
+    <text xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_30" y="114.8417"
+      x="295.77527" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0" stroke="#000"
+      fill="#ffffff">B♭</text>
+    <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_31"
+      y="138.78536" x="192.95838" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0"
+      fill="#ffffff">G♯</text>
+    <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_32"
+      y="138.78536" x="295.77527" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0"
+      fill="#ffffff">A♯</text>
+    <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_33"
+      y="114.8417" x="97.18375" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0"
+      fill="#ffffff">G♭</text>
+    <text stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_34"
+      y="138.78536" x="98.5922" opacity="undefined" stroke-opacity="null" stroke-dasharray="null" stroke-width="0"
+      fill="#ffffff">F♯</text>
+    <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24"
+      id="svg_35" y="114.8417" x="495.77524" opacity="undefined" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#000" fill="#ffffff">D♭</text>
+    <text style="cursor: move;" stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif"
+      font-size="24" id="svg_36" y="138.78536" x="495.77524" opacity="undefined" stroke-opacity="null"
+      stroke-dasharray="null" stroke-width="0" fill="#ffffff">C♯</text>
+    <text style="cursor: move;" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24"
+      id="svg_37" y="114.8417" x="592.95832" opacity="undefined" stroke-opacity="null" stroke-dasharray="null"
+      stroke-width="0" stroke="#000" fill="#ffffff">E♭</text>
+    <text style="cursor: move;" stroke="#000" xml:space="preserve" text-anchor="start" font-family="sans-serif"
+      font-size="24" id="svg_38" y="138.78536" x="592.95832" opacity="undefined" stroke-opacity="null"
+      stroke-dasharray="null" stroke-width="0" fill="#ffffff">D♯</text>
+    <text stroke-width="0" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_39"
+      y="223.90476" x="346.66319" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke="#0f0f00" fill="#000000">C♭</text>
+    <text style="cursor: move;" stroke-width="0" xml:space="preserve" text-anchor="start" font-family="sans-serif"
+      font-size="24" id="svg_40" y="223.90476" x="645.25472" opacity="undefined" fill-opacity="null"
+      stroke-opacity="null" stroke-dasharray="null" stroke="#0f0f00" fill="#000000">F♭</text>
+    <text stroke-width="0" xml:space="preserve" text-anchor="start" font-family="sans-serif" font-size="24" id="svg_41"
+      y="223.90476" x="438.21247" opacity="undefined" fill-opacity="null" stroke-opacity="null" stroke-dasharray="null"
+      stroke="#0f0f00" fill="#000000">B♯</text>
+    <text style="cursor: move;" stroke-width="0" xml:space="preserve" text-anchor="start" font-family="sans-serif"
+      font-size="24" id="svg_43" y="223.90476" x="47" opacity="undefined" fill-opacity="null" stroke-opacity="null"
+      stroke-dasharray="null" stroke="#0f0f00" fill="#000000">E♯</text>
+  </g>
 </svg>
