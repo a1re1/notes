@@ -1,78 +1,23 @@
 # Beginner Piano Notes
 
 ## Index
-1. Video: 
-[How To Play Piano - EASY First Piano Lesson!](https://www.youtube.com/watch?v=EPxqPw1N1Qk); [Notes](#1)
-2. Video: 
-[Piano Lessons for Beginners: Part 1 - Getting Started! Learn some simple chords](https://www.youtube.com/watch?v=827jmswqnEA&ab_channel=MangoldProject); [Notes](#2)
+### Videos:
+- [How To Play Piano - EASY First Piano Lesson!](#first-video)
+- [Piano Lessons for Beginners: Part 1 - Getting Started! Learn some simple chords](#second-video)
 
 ---
 
-## How To Play Piano - EASY First Piano Lesson! [](#1)
+## first-video
 ---
+
+[How To Play Piano - EASY First Piano Lesson!](https://www.youtube.com/watch?v=EPxqPw1N1Qk)
+
 -
--
--
 
-lorum ipsum
 
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-lorum ipsum
-
-## How To Play Piano - EASY First Piano Lesson! [](#2)
+## second-video
 ---
+
+[Piano Lessons for Beginners: Part 1 - Getting Started! Learn some simple chords](https://www.youtube.com/watch?v=827jmswqnEA&ab_channel=MangoldProject)
+
+-
