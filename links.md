@@ -1,0 +1,1 @@
+SVG generator: https://editor.method.ac/
