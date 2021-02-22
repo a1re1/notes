@@ -4,7 +4,7 @@
 - [glossary](#glossary)
 - videos:
   - [How To Play Piano - EASY First Piano Lesson!](#first-video)
-  - [Piano Lessons for Beginners: Part 1 - Getting Started! Learn some simple chords](#second-video)
+  - [The Top 5 Piano Exercises for beginners](#second-video)
 
 ---
 
@@ -15,7 +15,7 @@
 - **chord**: combination of 3 or more notes
 - **root note**: base note of a chord
 - **blocked chord**: all notes of chord played at same time
-- **broken chord**: all notes of chord played individually
+- **broken chord (arpeggio)**: all notes of chord played individually
 
 ## first-video
 ---
@@ -54,7 +54,7 @@
     2. G major
     3. F major
     4. A minor
-  - major chords
+  - major chords (sometimes major will be dropped)
     - left hand finger 5 (pinky) on root note
     - left hand finger 3 (middle) 4 half steps up
     - left hand finger 1 (thumb) 3 half steps up
@@ -71,6 +71,24 @@
 ## second-video
 ---
 
-[Piano Lessons for Beginners: Part 1 - Getting Started! Learn some simple chords](https://www.youtube.com/watch?v=827jmswqnEA&ab_channel=MangoldProject)
+[The Top 5 Piano Exercises for beginners](https://www.youtube.com/watch?v=tQh3-WBzaKY&ab_channel=CreativePianoAcademy)
 
--
+**Excercise 1:**
+- Right hand finger 1 on middle C (white key to left of middle double black keys)
+- Right hand other fingers in line, play notes back and forth
+- Left hand finger 5 on left C (C on the left of the middle C)
+- Left hand other fingers in line, play notes back and forth
+- after practicing with each hand put them together
+
+good for coordination and building muscle for the keys -- aim to say the name of the keys in your head as you play to learn them
+
+**Exercise 2:** 
+- Arpeggio of C major (C E G)
+- Keep playing the chord back and forth with each hand
+- play with increasing tempo until you can no longer speed up
+- after practicing with each hand put them together
+
+good to learn arpeggios and also good for coordination when using both hands
+
+**Exercise 3:**
+- 
