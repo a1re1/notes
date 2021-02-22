@@ -91,4 +91,30 @@ good for coordination and building muscle for the keys -- aim to say the name of
 good to learn arpeggios and also good for coordination when using both hands
 
 **Exercise 3:**
-- 
+- Play C major on right hand
+- Play in different ways
+  - staccato: fast beats
+  - hold notes longer and push down
+- Play C note on left hand
+
+**Exercise 4:**
+- Chord progression right hand
+- C major 4 times
+- G major 4 times
+- A minor 4 times
+- F major 4 times
+- Play left hand finger 5 on the root key one octave lower
+
+_can make it harder by playing the left hand root keys with different fingers instead of moving your hand with the right hand_
+
+**Exercise 5:**
+- Left and right hand coordination (timing)
+- RH C major
+- LH C
+- RH G major
+- LH G
+- RH A minor
+- LH A
+- RH F major
+- LH F
+- Keep a consistent tempo

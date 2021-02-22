@@ -47,7 +47,7 @@ you also might notice that i love the usage of a good en dash (--) or em dash (-
 ## general
 - [placeholder](./music/general/placeholder.md)
 ## piano
-- [placeholder](./music/piano/placeholder.md)
+- [beginner](./music/piano/beginner.md)
 ---
 # science
 ## anatomy
